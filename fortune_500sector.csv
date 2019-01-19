@@ -1,0 +1,501 @@
+﻿Rank,Company Name,Sector
+1,Walmart,Retailing
+2,Exxon Mobil,Energy
+3,Berkshire Hathaway,Financials
+4,Apple,Technology
+5,UnitedHealth Group,Health Care
+6,McKesson,Wholesalers
+7,CVS Health,Health Care
+8,Amazon.com,Retailing
+9,AT&T,Telecommunications
+10,General Motors,Motor Vehicles &  Parts
+11,Ford Motor,Motor Vehicles &  Parts
+12,AmerisourceBergen,Wholesalers
+13,Chevron,Energy
+14,Cardinal Health,Wholesalers
+15,Costco,Retailing
+16,Verizon,Telecommunications
+17,Kroger,Food &  Drug Stores
+18,General Electric,Industrials
+19,Walgreens Boots Alliance,Food &  Drug Stores
+20,JPMorgan Chase,Financials
+21,Fannie Mae,Financials
+22,Alphabet,Technology
+23,Home Depot,Retailing
+24,Bank of America Corp.,Financials
+25,Express Scripts Holding,Health Care
+26,Wells Fargo,Financials
+27,Boeing,Aerospace &  Defense
+28,Phillips 66,Energy
+29,Anthem,Health Care
+30,Microsoft,Technology
+31,Valero Energy,Energy
+32,Citigroup,Financials
+33,Comcast,Telecommunications
+34,IBM,Technology
+35,Dell Technologies,Technology
+36,State Farm Insurance Cos.,Financials
+37,Johnson & Johnson,Health Care
+38,Freddie Mac,Financials
+39,Target,Retailing
+40,Lowe’s,Retailing
+41,Marathon Petroleum,Energy
+42,Procter & Gamble,Household Products
+43,MetLife,Financials
+44,UPS,Transportation
+45,PepsiCo,"Food, Beverages &  Tobacco"
+46,Intel,Technology
+47,DowDuPont,Chemicals
+48,Archer Daniels Midland,"Food, Beverages &  Tobacco"
+49,Aetna,Health Care
+50,FedEx,Transportation
+51,United Technologies,Aerospace &  Defense
+52,Prudential Financial,Financials
+53,Albertsons Cos.,Food &  Drug Stores
+54,Sysco,Wholesalers
+55,Disney,Media
+56,Humana,Health Care
+57,Pfizer,Health Care
+58,HP,Technology
+59,Lockheed Martin,Aerospace &  Defense
+60,AIG,Financials
+61,Centene,Health Care
+62,Cisco Systems,Technology
+63,HCA Healthcare,Health Care
+64,Energy Transfer Equity,Energy
+65,Caterpillar,Industrials
+66,Nationwide,Financials
+67,Morgan Stanley,Financials
+68,Liberty Mutual Insurance Group,Financials
+69,New York Life Insurance,Financials
+70,Goldman Sachs Group,Financials
+71,American Airlines Group,Transportation
+72,Best Buy,Retailing
+73,Cigna,Health Care
+74,Charter Communications,Telecommunications
+75,Delta Air Lines,Transportation
+76,Facebook,Technology
+77,Honeywell International,Industrials
+78,Merck,Health Care
+79,Allstate,Financials
+80,Tyson Foods,"Food, Beverages &  Tobacco"
+81,United Continental Holdings,Transportation
+82,Oracle,Technology
+83,Tech Data,Wholesalers
+84,TIAA,Financials
+85,TJX,Retailing
+86,American Express,Financials
+87,Coca-Cola,"Food, Beverages &  Tobacco"
+88,Publix Super Markets,Food &  Drug Stores
+89,Nike,Apparel
+90,Andeavor,Energy
+91,World Fuel Services,Energy
+92,Exelon,Energy
+93,Massachusetts Mutual Life Insurance,Financials
+94,Rite Aid,Food &  Drug Stores
+95,ConocoPhillips,Energy
+96,CHS,"Food, Beverages &  Tobacco"
+97,3M,Industrials
+98,Time Warner,Media
+99,General Dynamics,Aerospace &  Defense
+100,USAA,Financials
+101,Capital One Financial,Financials
+102,Deere,Industrials
+103,INTL FCStone,Financials
+104,Northwestern Mutual,Financials
+105,Enterprise Products Partners,Energy
+106,Travelers Cos.,Financials
+107,Hewlett Packard Enterprise,Technology
+108,Philip Morris International,"Food, Beverages &  Tobacco"
+109,Twenty-First Century Fox,Media
+110,AbbVie,Health Care
+111,Abbott Laboratories,Health Care
+112,Progressive,Financials
+113,Arrow Electronics,Wholesalers
+114,Kraft Heinz,"Food, Beverages &  Tobacco"
+115,Plains GP Holdings,Energy
+116,Gilead Sciences,Health Care
+117,Mondelez International,"Food, Beverages &  Tobacco"
+118,Northrop Grumman,Aerospace &  Defense
+119,Raytheon,Aerospace &  Defense
+120,Macy’s,Retailing
+121,US Foods Holding,Wholesalers
+122,U.S. Bancorp,Financials
+123,Dollar General,Retailing
+124,International Paper,Materials
+125,Duke Energy,Energy
+126,Southern,Energy
+127,Marriott International,"Hotels, Restaurants &  Leisure"
+128,Avnet,Wholesalers
+129,Eli Lilly,Health Care
+130,Amgen,Health Care
+131,McDonald’s,"Hotels, Restaurants &  Leisure"
+132,Starbucks,"Hotels, Restaurants &  Leisure"
+133,Qualcomm,Technology
+134,Dollar Tree,Retailing
+135,PBF Energy,Energy
+136,Icahn Enterprises,Financials
+137,Aflac,Financials
+138,AutoNation,Retailing
+139,Penske Automotive Group,Retailing
+140,Whirlpool,Industrials
+141,Union Pacific,Transportation
+142,Southwest Airlines,Transportation
+143,ManpowerGroup,Business Services
+144,Thermo Fisher Scientific,Technology
+145,Bristol-Myers Squibb,Health Care
+146,Halliburton,Energy
+147,Tenet Healthcare,Health Care
+148,Lear,Motor Vehicles &  Parts
+149,Cummins,Industrials
+150,Micron Technology,Technology
+151,Nucor,Materials
+152,Molina Healthcare,Health Care
+153,Fluor,Engineering &  Construction
+154,Altria Group,"Food, Beverages &  Tobacco"
+155,Paccar,Industrials
+156,Hartford Financial Services,Financials
+157,Kohl’s,Retailing
+158,Western Digital,Technology
+159,Jabil,Technology
+160,Community Health Systems,Health Care
+161,Visa,Business Services
+162,Danaher,Health Care
+163,Kimberly-Clark,Household Products
+164,AECOM,Engineering &  Construction
+165,PNC Financial Services,Financials
+166,CenturyLink,Telecommunications
+167,NextEra Energy,Energy
+168,PG&E Corp.,Energy
+169,Synnex,Wholesalers
+170,WellCare Health Plans,Health Care
+171,Performance Food Group,Wholesalers
+172,Sears Holdings,Retailing
+173,Synchrony Financial,Financials
+174,CarMax,Retailing
+175,Bank of New York Mellon,Financials
+176,Freeport-McMoRan,Energy
+177,Genuine Parts,Wholesalers
+178,Emerson Electric,Industrials
+179,DaVita,Health Care
+180,Supervalu,Food &  Drug Stores
+181,Gap,Retailing
+182,General Mills,"Food, Beverages &  Tobacco"
+183,Nordstrom,Retailing
+184,Colgate-Palmolive,Household Products
+185,American Electric Power,Energy
+186,XPO Logistics,Transportation
+187,Goodyear Tire & Rubber,Motor Vehicles &  Parts
+188,Omnicom Group,Business Services
+189,CDW,Technology
+190,Sherwin-Williams,Chemicals
+191,PPG Industries,Chemicals
+192,Texas Instruments,Technology
+193,C.H. Robinson Worldwide,Transportation
+194,WestRock,Materials
+195,Cognizant Technology Solutions,Technology
+196,Newell Brands,Household Products
+197,CBS,Media
+198,Envision Healthcare,Health Care
+199,Monsanto,Chemicals
+200,Aramark,Business Services
+201,Applied Materials,Technology
+202,Waste Management,Business Services
+203,DISH Network,Telecommunications
+204,Illinois Tool Works,Industrials
+205,Lincoln National,Financials
+206,HollyFrontier,Energy
+207,CBRE Group,Financials
+208,Textron,Aerospace &  Defense
+209,Ross Stores,Retailing
+210,Principal Financial,Financials
+211,D.R. Horton,Engineering &  Construction
+212,Marsh & McLennan,Financials
+213,Devon Energy,Energy
+214,AES,Energy
+215,Ecolab,Chemicals
+216,Land O’Lakes,"Food, Beverages &  Tobacco"
+217,Loews,Financials
+218,Kinder Morgan,Energy
+219,FirstEnergy,Energy
+220,Occidental Petroleum,Energy
+221,Viacom,Media
+222,PayPal Holdings,Business Services
+223,NGL Energy Partners,Energy
+224,Celgene,Health Care
+225,Arconic,Aerospace &  Defense
+226,Kellogg,"Food, Beverages &  Tobacco"
+227,Las Vegas Sands,"Hotels, Restaurants &  Leisure"
+228,Stanley Black & Decker,Household Products
+229,Booking Holdings,Technology
+230,Lennar,Engineering &  Construction
+231,L Brands,Retailing
+232,DTE Energy,Energy
+233,Dominion Energy,Energy
+234,Reinsurance Group of America,Financials
+235,J.C. Penney,Retailing
+236,Mastercard,Business Services
+237,BlackRock,Financials
+238,Henry Schein,Wholesalers
+239,Guardian Life Ins. Co. of America,Financials
+240,Stryker,Health Care
+241,Jefferies Financial Group,Financials
+242,VF,Apparel
+243,ADP,Business Services
+244,Edison International,Energy
+245,Biogen,Health Care
+246,United States Steel,Materials
+247,Core-Mark Holding,Wholesalers
+248,Bed Bath & Beyond,Retailing
+249,Oneok,Energy
+250,BB&T Corp.,Financials
+251,Becton Dickinson,Health Care
+252,Ameriprise Financial,Financials
+253,Farmers Insurance Exchange,Financials
+254,First Data,Business Services
+255,Consolidated Edison,Energy
+256,Parker-Hannifin,Industrials
+257,Anadarko Petroleum,Energy
+258,Estee Lauder,Household Products
+259,State Street Corp.,Financials
+260,Tesla,Motor Vehicles &  Parts
+261,Netflix,Technology
+262,Alcoa,Materials
+263,Discover Financial Services,Financials
+264,Praxair,Chemicals
+265,CSX,Transportation
+266,Xcel Energy,Energy
+267,Unum Group,Financials
+268,Universal Health Services,Health Care
+269,NRG Energy,Energy
+270,EOG Resources,Energy
+271,Sempra Energy,Energy
+272,Toys “R” Us,Retailing
+273,Group 1 Automotive,Retailing
+274,Entergy,Energy
+275,Molson Coors Brewing,"Food, Beverages &  Tobacco"
+276,L3 Technologies,Aerospace &  Defense
+277,Ball,Materials
+278,AutoZone,Retailing
+279,Murphy USA,Retailing
+280,MGM Resorts International,"Hotels, Restaurants &  Leisure"
+281,Office Depot,Retailing
+282,Huntsman,Chemicals
+283,Baxter International,Health Care
+284,Norfolk Southern,Transportation
+285,salesforce.com,Technology
+286,Laboratory Corp. of America,Health Care
+287,W.W. Grainger,Wholesalers
+288,Qurate Retail,Retailing
+289,Autoliv,Motor Vehicles &  Parts
+290,Live Nation Entertainment,Media
+291,Xerox,Technology
+292,Leidos Holdings,Technology
+293,Corning,Industrials
+294,Lithia Motors,Retailing
+295,Expedia Group,Retailing
+296,Republic Services,Business Services
+297,Jacobs Engineering Group,Engineering &  Construction
+298,Sonic Automotive,Retailing
+299,Ally Financial,Financials
+300,LKQ,Wholesalers
+301,BorgWarner,Motor Vehicles &  Parts
+302,Fidelity National Financial,Financials
+303,SunTrust Banks,Financials
+304,IQVIA Holdings,Health Care
+305,Reliance Steel & Aluminum,Materials
+306,Nvidia,Technology
+307,Voya Financial,Financials
+308,CenterPoint Energy,Energy
+309,eBay,Technology
+310,Eastman Chemical,Chemicals
+311,American Family Insurance Group,Financials
+312,Steel Dynamics,Materials
+313,Pacific Life,Financials
+314,Chesapeake Energy,Energy
+315,Mohawk Industries,Household Products
+316,Quanta Services,Engineering &  Construction
+317,Advance Auto Parts,Retailing
+318,Owens & Minor,Wholesalers
+319,United Natural Foods,Wholesalers
+320,Tenneco,Motor Vehicles &  Parts
+321,Conagra Brands,"Food, Beverages &  Tobacco"
+322,GameStop,Retailing
+323,Hormel Foods,"Food, Beverages &  Tobacco"
+324,Hilton Worldwide Holdings,"Hotels, Restaurants &  Leisure"
+325,Frontier Communications,Telecommunications
+326,Fidelity National Information Services,Business Services
+327,Public Service Enterprise Group,Energy
+328,Boston Scientific,Health Care
+329,O’Reilly Automotive,Retailing
+330,Charles Schwab,Financials
+331,Global Partners,Wholesalers
+332,PVH,Apparel
+333,Avis Budget Group,Retailing
+334,Targa Resources,Energy
+335,Hertz Global Holdings,Retailing
+336,Calpine,Energy
+337,Mutual of Omaha Insurance,Financials
+338,Crown Holdings,Materials
+339,Peter Kiewit Sons’,Engineering &  Construction
+340,Dick’s Sporting Goods,Retailing
+341,PulteGroup,Engineering &  Construction
+342,Navistar International,Industrials
+343,Thrivent Financial for Lutherans,Financials
+344,DCP Midstream,Energy
+345,Air Products & Chemicals,Chemicals
+346,Veritiv,Wholesalers
+347,AGCO,Industrials
+348,Genworth Financial,Financials
+349,Univar,Wholesalers
+350,News Corp.,Media
+351,SpartanNash,Wholesalers
+352,Westlake Chemical,Chemicals
+353,Williams,Energy
+354,Lam Research,Technology
+355,Alaska Air Group,Transportation
+356,Jones Lang LaSalle,Financials
+357,Anixter International,Wholesalers
+358,Campbell Soup,"Food, Beverages &  Tobacco"
+359,Interpublic Group,Business Services
+360,Dover,Industrials
+361,Zimmer Biomet Holdings,Health Care
+362,Dean Foods,"Food, Beverages &  Tobacco"
+363,Foot Locker,Retailing
+364,Eversource Energy,Energy
+365,Alliance Data Systems,Business Services
+366,Fifth Third Bancorp,Financials
+367,Quest Diagnostics,Health Care
+368,EMCOR Group,Engineering &  Construction
+369,W.R. Berkley,Financials
+370,WESCO International,Wholesalers
+371,Coty,Household Products
+372,WEC Energy Group,Energy
+373,Masco,Household Products
+374,DXC Technology,Technology
+375,Auto-Owners Insurance,Financials
+376,Jones Financial (Edward Jones),Financials
+377,Liberty Media,Media
+378,Erie Insurance Group,Financials
+379,Hershey,"Food, Beverages &  Tobacco"
+380,PPL,Energy
+381,Huntington Ingalls Industries,Aerospace &  Defense
+382,Mosaic,Chemicals
+383,J.M. Smucker,"Food, Beverages &  Tobacco"
+384,Delek US Holdings,Energy
+385,Newmont Mining,Energy
+386,Constellation Brands,"Food, Beverages &  Tobacco"
+387,Ryder System,Transportation
+388,National Oilwell Varco,Energy
+389,Adobe Systems,Technology
+390,LifePoint Health,Health Care
+391,Tractor Supply,Retailing
+392,Thor Industries,Motor Vehicles &  Parts
+393,Dana,Motor Vehicles &  Parts
+394,Weyerhaeuser,Materials
+395,J.B. Hunt Transport Services,Transportation
+396,Darden Restaurants,"Hotels, Restaurants &  Leisure"
+397,Yum China Holdings,"Hotels, Restaurants &  Leisure"
+398,Blackstone Group,Financials
+399,Berry Global Group,Materials
+400,Builders FirstSource,Materials
+401,Activision Blizzard,Technology
+402,JetBlue Airways,Transportation
+403,Amphenol,Technology
+404,A-Mark Precious Metals,Materials
+405,Spirit AeroSystems Holdings,Aerospace &  Defense
+406,R.R. Donnelley & Sons,Media
+407,Harris,Aerospace &  Defense
+408,Expeditors Intl. of Washington,Transportation
+409,Discovery,Media
+410,Owens-Illinois,Materials
+411,Sanmina,Technology
+412,KeyCorp,Financials
+413,American Financial Group,Financials
+414,Oshkosh,Industrials
+415,Rockwell Collins,Aerospace &  Defense
+416,Kindred Healthcare,Health Care
+417,Insight Enterprises,Technology
+418,Dr Pepper Snapple Group,"Food, Beverages &  Tobacco"
+419,American Tower,Financials
+420,Fortive,Industrials
+421,Ralph Lauren,Apparel
+422,Spectrum Brands Holdings,Household Products
+423,Ascena Retail Group,Retailing
+424,United Rentals,Business Services
+425,Casey’s General Stores,Retailing
+426,Graybar Electric,Wholesalers
+427,Avery Dennison,Materials
+428,MasTec,Engineering &  Construction
+429,CMS Energy,Energy
+430,HD Supply Holdings,Wholesalers
+431,Raymond James Financial,Financials
+432,NCR,Technology
+433,Hanesbrands,Apparel
+434,Asbury Automotive Group,Retailing
+435,Citizens Financial Group,Financials
+436,Packaging Corp. of America,Materials
+437,Alleghany,Financials
+438,Apache,Energy
+439,Dillard’s,Retailing
+440,Assurant,Financials
+441,Franklin Resources,Financials
+442,Owens Corning,Materials
+443,Motorola Solutions,Technology
+444,NVR,Engineering &  Construction
+445,Rockwell Automation,Industrials
+446,TreeHouse Foods,"Food, Beverages &  Tobacco"
+447,Wynn Resorts,"Hotels, Restaurants &  Leisure"
+448,Olin,Chemicals
+449,American Axle & Manufacturing,Motor Vehicles &  Parts
+450,Old Republic International,Financials
+451,Chemours,Chemicals
+452,iHeartMedia,Media
+453,Ameren,Energy
+454,Arthur J. Gallagher,Financials
+455,Celanese,Chemicals
+456,Sealed Air,Materials
+457,UGI,Energy
+458,Realogy Holdings,Financials
+459,Burlington Stores,Retailing
+460,Regions Financial,Financials
+461,AK Steel Holding,Materials
+462,Securian Financial Group,Financials
+463,S&P Global,Business Services
+464,Markel,Financials
+465,TravelCenters of America,Retailing
+466,Conduent,Business Services
+467,M&T Bank Corp.,Financials
+468,Clorox,Household Products
+469,AmTrust Financial Services,Financials
+470,KKR,Financials
+471,Ulta Beauty,Retailing
+472,Yum Brands,"Hotels, Restaurants &  Leisure"
+473,Regeneron Pharmaceuticals,Health Care
+474,Windstream Holdings,Telecommunications
+475,Magellan Health,Health Care
+476,Western & Southern Financial,Financials
+477,Intercontinental Exchange,Financials
+478,Ingredion,"Food, Beverages &  Tobacco"
+479,Wyndham Destinations,"Hotels, Restaurants &  Leisure"
+480,Toll Brothers,Engineering &  Construction
+481,Seaboard,"Food, Beverages &  Tobacco"
+482,Booz Allen Hamilton,Technology
+483,First American Financial,Financials
+484,Cincinnati Financial,Financials
+485,Avon Products,Household Products
+486,Northern Trust,Financials
+487,Fiserv,Business Services
+488,Harley-Davidson,Transportation
+489,Cheniere Energy,Energy
+490,Patterson,Wholesalers
+491,Peabody Energy,Energy
+492,ON Semiconductor,Technology
+493,Simon Property Group,Financials
+494,Western Union,Business Services
+495,NetApp,Technology
+496,Polaris Industries,Transportation
+497,Pioneer Natural Resources,Energy
+498,ABM Industries,Business Services
+499,Vistra Energy,Energy
+500,Cintas,Business Services
